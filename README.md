@@ -1,4 +1,4 @@
-# BreadcrumbsAsmX86-Pacman-16-bit
+# AsmX86-Pacman-16-bit
 
 ## Introduction
 This project is a Pac-Man game developed as a way to bring to life an idea that originated from a 7th-grade assignment using Scratch. The challenge of implementing ghost behavior and making them chase Pac-Man inspired the creation of this game using assembly language.
